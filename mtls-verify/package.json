@@ -1,0 +1,14 @@
+{
+  "name": "mtls-verify",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 Mutual TLS Client Authentication and Certificate Bound Access Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gonzalezruben@google.com",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
